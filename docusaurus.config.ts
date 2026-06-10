@@ -17,7 +17,7 @@ const config: Config = {
   organizationName: 'CloudStar2077',
   projectName: 'Juice-Shop-Master',
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
 
   i18n: {
     defaultLocale: 'en',
