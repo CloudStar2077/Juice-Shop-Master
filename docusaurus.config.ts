@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   url: 'https://cloudstar2077.github.io',
-  baseUrl: '/docusaurus/',
+  baseUrl: '/Docusaurus/',
 
   organizationName: 'CloudStar2077',
-  projectName: '/docusaurus/',
+  projectName: '/Docusaurus/',
 
   onBrokenLinks: 'throw',
 
