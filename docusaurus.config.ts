@@ -12,10 +12,10 @@ const config: Config = {
   },
 
   url: 'https://cloudstar2077.github.io',
-  baseUrl: '/Juice-Shop-Master/',
+  baseUrl: '/docusaurus/',
 
   organizationName: 'CloudStar2077',
-  projectName: 'Juice-Shop-Master',
+  projectName: '/docusaurus/',
 
   onBrokenLinks: 'throw',
 
