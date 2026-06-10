@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-This site documents my projects in the areas of cybersecurity and software development.
+This site documents my projects in the areas of software development and cybersecurity.
 
 ## Projects
 
